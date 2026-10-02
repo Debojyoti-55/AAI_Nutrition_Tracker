@@ -1,0 +1,21 @@
+# Requirements for Nutrition Tracker Application
+# Generated using: uv init and uv add
+
+# Python 3.12.10
+
+# Core AI / NLP Libraries
+google-generativeai==0.7.1
+openai==1.58.0
+pandas==2.2.3
+numpy==2.2.6
+
+# Data Processing & Storage
+sqlalchemy==2.0.44
+pillow==11.0.0
+python-dotenv==1.0.1
+
+# Web Framework / UI
+streamlit==1.56.0
+
+# Testing
+pytest==9.4.1
